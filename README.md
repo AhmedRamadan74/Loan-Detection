@@ -3,4 +3,5 @@ Dream Housing Finance company deals in all home loans. They have presence across
 
 # The aim of the project :
 Build Machine learning model to help company to automate the loan eligibility process (real time) based on customer detail provided while filling online application form
-(Link website deployment)[https://loan-detection.streamlit.app/]
+
+[Link website deployment](https://loan-detection.streamlit.app/)
