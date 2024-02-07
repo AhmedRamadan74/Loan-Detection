@@ -1,0 +1,23 @@
+1) Average applicant income for each gender ?
+
+2) Average applicant income for each state married ?
+
+3) Average applicant income for each state education ?
+
+4) Average applicant income for each state self employed ?
+
+5) relation between applicant income and Loan Amount ?
+
+6) relation between Loan amount and loan amount term ?
+
+7) precentage of Loan status for gender ?
+ 
+8) precentage of Loan status for state married ?
+
+9) precentage of Loan status for state education ?
+
+10) precentage of Loan status for state self employed ?
+
+11) relation between credit history and Loan status ?
+
+12) relation between prperty_Area and Loan status ?
